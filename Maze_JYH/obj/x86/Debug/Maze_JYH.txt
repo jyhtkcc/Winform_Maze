@@ -1,0 +1,67 @@
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Form1.resources
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.pdb
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.exe
+c:\users\kevin\documents\visual studio 2010\Projects\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\새 폴더 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\새 폴더 (3) - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\OpenCvSharp.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Buffers.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Memory.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.ValueTuple.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\OpenCvSharp.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Buffers.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Memory.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Debug\System.ValueTuple.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.csproj.CopyComplete
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Debug\MCS_Week_003_final.pdb

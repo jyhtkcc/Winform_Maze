@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze_JYH", "Maze_JYH\Maze_JYH.csproj", "{936C5DB6-1728-4E41-AA1D-65FDBA79C0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936C5DB6-1728-4E41-AA1D-65FDBA79C0CC}.Debug|x86.ActiveCfg = Debug|x86
+		{936C5DB6-1728-4E41-AA1D-65FDBA79C0CC}.Debug|x86.Build.0 = Debug|x86
+		{936C5DB6-1728-4E41-AA1D-65FDBA79C0CC}.Release|x86.ActiveCfg = Release|x86
+		{936C5DB6-1728-4E41-AA1D-65FDBA79C0CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0FCB39-98F9-4290-82B8-DA890118E7CA}
+	EndGlobalSection
+EndGlobal

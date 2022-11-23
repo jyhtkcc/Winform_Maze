@@ -1,0 +1,174 @@
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CopyComplete
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\OpenCvSharpExtern.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avcodec-57.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avdevice-57.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avfilter-6.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avformat-57.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avutil-55.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\postproc-54.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swresample-2.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swscale-4.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avcodec-57.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avdevice-57.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avfilter-6.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avformat-57.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avutil-55.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\postproc-54.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swresample-2.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swscale-4.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\OpenCvSharpExtern.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.dll
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.xml
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CopyComplete
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로프로젝트 최종 - 복사본 - 복사본 - 복사본 (2)\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avcodec-57.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avdevice-57.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avfilter-6.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avformat-57.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avutil-55.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\postproc-54.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swresample-2.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swscale-4.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\OpenCvSharpExtern.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll.config
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CopyComplete
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avcodec-57.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avdevice-57.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avfilter-6.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avformat-57.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\avutil-55.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\postproc-54.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swresample-2.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\swscale-4.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\OpenCvSharpExtern.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll.config
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe.config
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\MCS_Week_003_final.pdb
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.dll
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\Accord.Video.FFMPEG.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Buffers.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Memory.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Numerics.Vectors.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\bin\Release\System.ValueTuple.xml
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.AssemblyReference.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Form1.resources
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.Properties.Resources.resources
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.GenerateResource.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CoreCompileInputs.cache
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.csproj.CopyComplete
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.exe
+C:\Users\YHJung1128\Desktop\미로 마지막\MCS_Week_003_final\EO_MAZE\MCS_Week_003_final\MCS_Week_003_final\obj\x86\Release\MCS_Week_003_final.pdb
